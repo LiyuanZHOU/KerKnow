@@ -1,0 +1,18 @@
+[03-Jun-2020 14:26:46] NOTICE: fpm is running, pid 16519
+[03-Jun-2020 14:26:46] NOTICE: ready to handle connections
+[03-Jun-2020 14:43:15] ERROR: Another FPM instance seems to already listen on /home/liyuan/.config/Local/run/4YzbRKw4i/php/php-fpm.socket
+[03-Jun-2020 14:43:15] ERROR: FPM initialization failed
+[03-Jun-2020 14:43:15] ERROR: Another FPM instance seems to already listen on /home/liyuan/.config/Local/run/4YzbRKw4i/php/php-fpm.socket
+[03-Jun-2020 14:43:15] ERROR: FPM initialization failed
+[03-Jun-2020 14:43:16] ERROR: Another FPM instance seems to already listen on /home/liyuan/.config/Local/run/4YzbRKw4i/php/php-fpm.socket
+[03-Jun-2020 14:43:16] ERROR: FPM initialization failed
+[03-Jun-2020 14:43:16] ERROR: Another FPM instance seems to already listen on /home/liyuan/.config/Local/run/4YzbRKw4i/php/php-fpm.socket
+[03-Jun-2020 14:43:16] ERROR: FPM initialization failed
+[03-Jun-2020 14:45:52] ERROR: Another FPM instance seems to already listen on /home/liyuan/.config/Local/run/4YzbRKw4i/php/php-fpm.socket
+[03-Jun-2020 14:45:52] ERROR: FPM initialization failed
+[03-Jun-2020 14:45:53] ERROR: Another FPM instance seems to already listen on /home/liyuan/.config/Local/run/4YzbRKw4i/php/php-fpm.socket
+[03-Jun-2020 14:45:53] ERROR: FPM initialization failed
+[03-Jun-2020 14:45:54] ERROR: Another FPM instance seems to already listen on /home/liyuan/.config/Local/run/4YzbRKw4i/php/php-fpm.socket
+[03-Jun-2020 14:45:54] ERROR: FPM initialization failed
+[03-Jun-2020 14:45:54] ERROR: Another FPM instance seems to already listen on /home/liyuan/.config/Local/run/4YzbRKw4i/php/php-fpm.socket
+[03-Jun-2020 14:45:54] ERROR: FPM initialization failed

@@ -1,0 +1,8 @@
+[03-Jun-2020 04:48:12 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/liyuan/Local Sites/kerknow/app/public/wp-admin/includes/update.php on line 137
+[03-Jun-2020 04:48:12 UTC] PHP Stack trace:
+[03-Jun-2020 04:48:12 UTC] PHP   1. {main}() /home/liyuan/Local Sites/kerknow/app/public/wp-admin/update-core.php:0
+[03-Jun-2020 04:48:12 UTC] PHP   2. do_core_upgrade() /home/liyuan/Local Sites/kerknow/app/public/wp-admin/update-core.php:748
+[03-Jun-2020 04:48:12 UTC] PHP   3. Core_Upgrader->upgrade() /home/liyuan/Local Sites/kerknow/app/public/wp-admin/update-core.php:563
+[03-Jun-2020 04:48:12 UTC] PHP   4. update_core() /home/liyuan/Local Sites/kerknow/app/public/wp-admin/includes/class-core-upgrader.php:170
+[03-Jun-2020 04:48:12 UTC] PHP   5. get_core_checksums() /home/liyuan/Local Sites/kerknow/app/public/wp-admin/includes/update-core.php:1033
+[03-Jun-2020 04:48:12 UTC] PHP   6. trigger_error() /home/liyuan/Local Sites/kerknow/app/public/wp-admin/includes/update.php:137
